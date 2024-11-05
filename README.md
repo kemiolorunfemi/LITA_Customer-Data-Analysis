@@ -19,5 +19,10 @@ Revenue: The total amount generated from the subscription service rendered
 Subscription Duration: The period subscription was active for
 
 ### Key Metrics
-1. Average Subscription Duration: 
-2. Total Revenue
+1. Subscription Duration: Calculated as the difference between the Subscription End and Subscription Start across all subscription
+2. Total Revenue: Calculated as the Sum of all the Revenue from the various subscriptions
+3.  Average Subscription Duration: Calculated as the average of the difference between the Subscription End and Subscription Start across all subscription
+
+### How Data was utilised
+
+
