@@ -11,22 +11,22 @@ to understand customer behavior, track subscription types, and identify key tren
 **Customer ID:** Unique identification code for each Customer that subscribed for the Service offered by the company.
 **Customer Name:** The name of each subscribing Customer.
 **Region:** The location where each subscription was made.
-**Subscription Type:** The specific subscription package opted for by each Customer.
+** Subscription Type:** The specific subscription package opted for by each Customer.
 **Subscription Start:** The time the subscrition began.
 **Subscription End:** The time the subscrition began.
-**Canceled:** The subscrition packages that were stopped.
-**Revenue:** The total amount generated from the subscription service rendered.
+**Canceled:** The subscrition services that were stopped.
+**Revenue:** The total amount generated from aech subscription service purchased.
 **Subscription Duration:** The period subscription was active.
 
 ### Key Metrics
 **1. Subscription Duration:** Calculated as the difference between the Subscription End and Subscription Start across all subscription.
-
 **2. Total Revenue:** Calculated as the Sum of all the Revenue from the various subscriptions.
-
 **3.  Average Subscription Duration:** Calculated as the average of the difference between the Subscription End and Subscription Start across all subscription.
+**4. Average Revenue:** Calculated as Average of the Total Revenue across the subscription Types
+
 
 ### How Data was utilised
-
+**Subscription Type by Number of Customer:** 
 
 
 
