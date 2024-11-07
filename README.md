@@ -49,7 +49,9 @@ The main objective of this project is to analyze the customer segmentation data 
 ![image](https://github.com/user-attachments/assets/1cc8a978-e371-4dd8-979d-283706ccb70b)
 
 ### SQL Analysis of Customer Subscription Behaviour
-Analyzing the customer subscription pattern using SQL to generate insights into subscription type, subscription cancelled or renewed, revenue, customer behavior, subscription duration and regional performance. The analysis is aimed at helping stakeholders make informed decisions based on customers key trends in cancellations and renewals.
+Analyzing the customer subscription pattern using SQL to generate insights into subscription type, subscription cancelled or renewed, 
+revenue, customer behavior, subscription duration and regional performance. The analysis is aimed at helping stakeholders make 
+informed decisions based on customers key trends in cancellations and renewals.
 
 The following were retrieved by SQL Query after :
 ![image](https://github.com/user-attachments/assets/1bb1d9bc-4c36-4fc8-af81-de1ed659a234)
